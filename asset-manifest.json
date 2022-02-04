@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/xkelma/static/css/main.f85d5d04.css",
-    "main.js": "/xkelma/static/js/main.1419e56f.js",
-    "static/js/787.c7c54ad5.chunk.js": "/xkelma/static/js/787.c7c54ad5.chunk.js",
-    "static/media/BCSans-Bold.woff": "/xkelma/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/xkelma/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/xkelma/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/xkelma/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/xkelma/index.html",
-    "main.f85d5d04.css.map": "/xkelma/static/css/main.f85d5d04.css.map",
-    "main.1419e56f.js.map": "/xkelma/static/js/main.1419e56f.js.map",
-    "787.c7c54ad5.chunk.js.map": "/xkelma/static/js/787.c7c54ad5.chunk.js.map"
+    "main.css": "/xkelma-blitz/static/css/main.2c8fed94.css",
+    "main.js": "/xkelma-blitz/static/js/main.a2ca7c0b.js",
+    "static/js/787.c7c54ad5.chunk.js": "/xkelma-blitz/static/js/787.c7c54ad5.chunk.js",
+    "static/media/BCSans-Bold.woff": "/xkelma-blitz/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/xkelma-blitz/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/xkelma-blitz/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/xkelma-blitz/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/xkelma-blitz/index.html",
+    "main.2c8fed94.css.map": "/xkelma-blitz/static/css/main.2c8fed94.css.map",
+    "main.a2ca7c0b.js.map": "/xkelma-blitz/static/js/main.a2ca7c0b.js.map",
+    "787.c7c54ad5.chunk.js.map": "/xkelma-blitz/static/js/787.c7c54ad5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f85d5d04.css",
-    "static/js/main.1419e56f.js"
+    "static/css/main.2c8fed94.css",
+    "static/js/main.a2ca7c0b.js"
   ]
 }
